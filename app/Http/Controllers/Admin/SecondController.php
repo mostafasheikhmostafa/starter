@@ -29,3 +29,4 @@ class SecondController extends Controller
         return 'static string3'; 
     }
 }
+
