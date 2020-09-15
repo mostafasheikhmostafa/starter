@@ -15,4 +15,16 @@ return [
 
     "hello gus" => 'أهلا بكم',
     "welcom"=> 'اهلا',
+    "offer name required" => 'أسم العرض مطلوب',
+    "offer name must be unique" => 'أسم العرض يجب الا يتكرر',
+    "offer price required"=> 'السعر مطلوب',
+    "Add your offer" => 'أضافه عرض جديد ',
+    "Offer Name ar"   => 'أسم العرض العربي',
+    "Offer Name en"   => 'أسم العرض بالانجليزي',
+    "Offer Price"  => 'سعر العرض',
+    "Offer details ar" => 'تفاصيل العرض بالعربي',
+    "Offer details en" => 'تفاصيل العرض بالانجليزي',
+    "Save Offer"  => 'حفظ',
+    "Offer Name" => 'اسم العرض',
+    "Offer details" => 'تفاصيل العرض',
 ];
